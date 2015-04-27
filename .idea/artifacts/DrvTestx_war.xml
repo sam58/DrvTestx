@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="DrvTestx:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DrvTestx.war">
+      <element id="artifact" artifact-name="DrvTestx:war exploded" />
+    </root>
+  </artifact>
+</component>

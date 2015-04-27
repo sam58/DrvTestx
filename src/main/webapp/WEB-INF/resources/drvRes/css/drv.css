@@ -1,0 +1,13 @@
+body { font-family: arial; font-size: 14px; }
+.drv {
+    padding: 2em;
+    background-color: #EEEEDD; border: 1px solid #CCC;
+
+}
+
+
+.Width90{width: 90%;min-width: 200px}
+.searchResult{
+    width: 100%;
+    padding: 3px;
+}
